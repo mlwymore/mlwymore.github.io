@@ -60,3 +60,5 @@ header_pages:
   - theatre.markdown
 
 show_excerpts: true
+
+collections_dir: collections
