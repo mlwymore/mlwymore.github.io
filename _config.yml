@@ -21,7 +21,7 @@
 title: Mat Wymore
 email: mlwymore@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Mat Wymore, computer engineer, educator, developer, sysadmin, dad. 
+  Personal site for Mat Wymore: computer engineer, educator, developer, sysadmin, dad. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlwym.org" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mlwymore
@@ -62,3 +62,7 @@ header_pages:
 show_excerpts: true
 
 collections_dir: collections
+
+collections:
+  - development
+  - research
